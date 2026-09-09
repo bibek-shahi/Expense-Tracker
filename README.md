@@ -2,7 +2,7 @@
 
 A simple command-line expense tracker built with Python.
 
-This project allows users to add, update, delete, list, and summarize expenses. Expense data is stored locally in a JSON file.
+This project allows users to add, update, delete, list, and summarize expenses. Expense data is stored locally in a JSON file. From https://roadmap.sh/projects/expense-tracker
 
 ## Features
 
